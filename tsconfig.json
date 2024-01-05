@@ -23,6 +23,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "config/site.js", "config/fonts.js", "components/theme-switch.jsx", "components/icons.jsx", "app/providers.jsx", "app/page.jsx", "app/layout.jsx", "app/error.jsx"],
   "exclude": ["node_modules"]
 }
